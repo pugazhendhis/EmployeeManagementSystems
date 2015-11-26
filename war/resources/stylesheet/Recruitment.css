@@ -1,0 +1,243 @@
+ 
+body
+{
+	background-image: url("http://tinyurl.com/q78ekex");
+	padding: 80px;	
+}
+
+#comp
+{
+	color: #F0FFF0;
+}
+
+
+#employee
+{
+	float:right;
+}
+
+   
+#center
+{
+  padding: 0px;
+  border: 2px solid #a1a1a1;   
+}
+
+
+ #topleft
+ {
+  padding: 0px;
+  height:150px;   
+  background-color: #FFFFFF;   
+   
+ }
+
+#topright
+{
+  height:150px;   
+  background-color: #A52A2A	;   
+}
+
+ 
+ 
+ #topest
+{
+	height:300px;
+	 
+	background-image: url("http://goo.gl/SSq4BU");
+}
+ 
+
+ 
+ 
+#topinnerleft
+{
+  height: 800px;
+  background-color: #DCDCDC;   
+}
+
+#topinnerright 
+{
+ 
+ width: 972px;
+ height: 800px;
+ padding-right: 400px;
+ padding-top:100px;
+ background-color: #FFFFFF;
+ border: 2px solid #a1a1a1;   
+
+}
+
+#innercenter
+{
+	padding: 0px;
+	height: 800px; 
+		 
+
+}
+
+
+#bottominnerleft
+{
+	height:50px; 
+	background-color: #080000;	 
+		 
+
+} 
+
+#bottominnerright
+{
+	 width: 972px;	 
+	height:50px;	 
+	background-color: #080000;	  
+		 
+
+}
+
+#bottomcenter
+{
+	padding: 0px;
+		 
+
+}
+
+ul li
+{
+	line-height: 40px;
+	list-style-type: none;
+	
+}
+
+ul li a
+{
+	text-decoration: none;
+	color: black;
+} 
+
+
+#iderr
+{
+	color: red;
+	position: absolute;
+	top: 636px;
+	left: 810px;
+
+}
+
+#fnameerr
+{
+	color: red;
+	position: absolute;
+	top: 686px;
+	left: 810px;
+
+}
+#lnameerr
+{
+	color: red;
+	position: absolute;
+	top: 737px;
+	left: 880px;
+
+}
+
+#doberr
+{
+	color: red;
+	position: absolute;
+	top: 785px;
+	left: 810px;
+
+}
+
+#gendererr 
+{
+	color: red;
+	position: absolute;
+	top: 850px;
+	left: 810px;
+
+}
+
+#moberr
+{
+	color: red;
+	position: absolute;
+	top: 904px;
+	left: 810px;
+
+}
+
+#mailerr
+{
+	color: red;
+	position: absolute;
+	top: 953px;
+	left: 810px;
+
+}
+
+#cityerr
+{
+	color: red;
+	position: absolute;
+	top: 1003px;
+	left: 810px;
+}
+
+#stateerr
+{
+	color: red;
+	position: absolute;
+	top: 1055px;
+	left: 810px;
+}
+
+#desigerr
+{
+	color: red;
+	position: absolute;
+	top: 1099px;
+	left: 810px;
+
+}
+
+
+#dojerr
+{
+	color: red;
+	position: absolute;
+	top: 1148px;
+	left: 810px;
+
+}
+
+#durationerr
+{
+	color: red;
+	position: absolute;
+	top: 1195px;
+	left: 810px;
+}
+
+ #leaverr
+{
+	color: red;
+	position: absolute;
+	top: 1204px;
+	left: 810px;
+
+}
+
+
+table#albums 
+{
+    border-collapse:separate;
+    border-spacing:0 15px;
+}
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,94 @@
+  
+body
+{
+  padding: 50px;  
+}
+
+#employee
+{
+	float:right;
+}
+
+   
+#center
+{
+  padding: 0px;
+    
+}
+
+
+ #topleft
+ {
+  padding: 0px;
+  height:150px;   
+  background-color: #FFFFFF;   
+   
+ }
+
+#topright
+{
+  height:150px;   
+  background-color: #00BFFF;   
+}
+
+#topest
+{
+	height:300px;
+	 
+	background-image: url("http://goo.gl/SSq4BU");
+}
+
+ 
+#topinnerleft
+{
+  height: 600px;
+  background-color: #696969;   
+} 
+
+
+#innercenter
+{
+  padding: 0px;
+}
+
+
+#bottominnerleft
+{
+  height:50px; 
+  background-color: #080000;   
+} 
+
+#bottominnerright
+{
+     
+  height:50px;   
+  background-color: #080000;    
+}
+
+#bottomcenter
+{
+  padding: 0px;
+}
+
+ul li
+{
+  line-height: 40px;
+  list-style-type: none;
+  
+}
+
+ul li a
+{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+
+
+#topinnerright 
+{
+ 
+ padding-top:100px;
+ background-color: #FFFFFF;
+
+}

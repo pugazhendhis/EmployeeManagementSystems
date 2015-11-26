@@ -1,0 +1,132 @@
+ 
+body
+{
+	background-image: url("http://tinyurl.com/q78ekex");
+	padding: 80px;	
+}
+
+#comp
+{
+	color: #F0FFF0;
+}
+
+#employee
+{
+	float:right;
+}
+   
+#center
+{
+	padding: 0px;
+	 	 
+	border: 2px solid #a1a1a1;
+	 
+}
+
+
+  #topleft
+ {
+  padding:0px;
+  height:150px;   
+  background-color: #FFFFFF;   
+   
+ }
+
+#topright
+{
+	height:150px;   
+	background-color: #A52A2A;	 
+}
+
+#topest
+{
+	height:300px;
+	 
+	background-image: url("http://goo.gl/SSq4BU");
+}
+ 
+#topinnerleft
+{
+	height: 900px;
+	 background-color: #DCDCDC;	 
+} 
+
+#topinnerright
+{
+	width: 972px;
+ 	height: 900px;
+ 	padding-top:100px;
+ 	background-color: #FFFFFF;
+ 	border: 2px solid #a1a1a1;   
+	
+	
+	 	 
+}
+
+#innercenter
+{
+	padding: 0px;
+}
+
+
+#bottominnerleft
+{
+	height:50px; 
+	background-color: #080000;	 
+} 
+
+#bottominnerright
+{
+		 
+	height:50px;
+	width: 972px;	 
+	background-color: #080000;	  
+}
+
+#bottomcenter
+{
+	padding: 0px;
+}
+
+ul li
+{
+	line-height: 40px;
+	list-style-type: none;
+	
+}
+
+ul li a
+{
+	display:block; 
+	text-decoration: none;
+	color: black;
+}
+
+
+#layoff
+{
+ padding-top: 100px;	
+} 
+	
+
+.layOff {
+font-family: sans-serif;
+-webkit-font-smoothing: antialiased;
+font-size: 115%;
+width: auto;
+overflow: auto;
+display: block;
+}
+.layOff th {
+background-color: rgb(112, 196, 105);
+font-weight: normal;
+color: white;
+padding: 5px 5px;
+text-align: center;
+}
+.layOff td {
+background-color: rgb(238, 238, 238);
+padding: 5px 5px;
+color: rgb(111, 111, 111);
+}
+ 	
